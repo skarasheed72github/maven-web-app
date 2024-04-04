@@ -2,9 +2,9 @@
 <body>
 <h1><font color='red'> Welcome to Bhasker IT - Software Training Institute <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://bhasker.com/online-training-schedules">Click Here for IT Training Schedules</a>
   
-  <h2> Call Us : + 9985396677</h2>
+  <h2> Call Us : + 9505462615</h2>
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
 
